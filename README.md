@@ -1,0 +1,1 @@
+<p><a style="float: left;" style="margin-left: 100px;" target="_blank" rel="noopener noreferrer" href="https://ibb.co/tJVfnXR"><img src="https://i.ibb.co/9rQXBtP/Vikas.jpg" alt="Web-developer">      </a>
