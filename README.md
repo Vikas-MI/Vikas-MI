@@ -1,13 +1,1 @@
-<p>
-  <a
-    style="float: left; margin-left: 100px;"
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://i.sstatic.net/82o0huET.png"
-  >
-    <img
-      src="https://i.sstatic.net/82o0huET.png"
-      alt="Web-developer"
-    >
-  </a>
-</p>
+<img alt="Web-developer" src="./Gemini_Generated_Image_55g0g155g0g155g0.png">
